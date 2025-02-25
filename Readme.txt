@@ -1,2 +1,0 @@
-# ClassOrbit: A Smarter Way to Manage Education
-ClassOrbit is an innovative digital platform that bridges admins, faculty, and students for easy access to vital information. It utilizes React for a responsive front-end, Spring Boot for scalable backend services, and a MySQL database for robust data management. This streamlined system ensures efficiency and connectivity in educational environments.
