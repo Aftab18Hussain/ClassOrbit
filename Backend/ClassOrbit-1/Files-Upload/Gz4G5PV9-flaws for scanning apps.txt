@@ -1,0 +1,19 @@
+1. Quality Issues: One of the most common complaints is about the quality of scans. Users often find that the scans may have slanted text, distorted images, or poor resolution, 
+			especially when using the free versions of scanning apps.
+
+2. Limited Editing Features: Many scanning apps offer basic editing features like cropping and rotation, but they may lack more advanced editing tools. 
+			Users looking for precise editing options may find these apps lacking.
+
+3. Subscription Costs: Some document scanning apps offer free versions with limited features and watermarked scans. To access the full range of features, 
+			users are often required to subscribe to a premium or paid plan, which can be expensive over time.
+
+4. Compatibility Issues: Not all scanning apps are compatible with all devices or operating systems. Users may encounter compatibility issues that prevent them from using the app on their specific device.
+
+5. Privacy Concerns: Users may have concerns about the privacy and security of their scanned documents. Storing sensitive documents in a third-party 
+			app or cloud service can be a security risk if proper encryption and security measures are not in place.
+
+- maximum flaws was about the output image quality
+- some apps use cloud for storing data so it raises privacy issues
+- while switching to new device app cant retrieve data from cloud database
+- sometimes while signing in it stuck with an error and cant sign in, so get difficult to retrieve data
+- automatically gets log off from profile
